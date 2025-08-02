@@ -28,6 +28,7 @@ dependencies = [
     "plotly>=6.0.1",
     "polygon-api-client>=1.14.5",
     "psutil>=7.0.0",
+    "psycopg[binary,pool]>=3.2.9",
     "pypdf>=5.4.0",
     "pypdf2>=3.0.1",
     "python-dotenv>=1.0.1",
