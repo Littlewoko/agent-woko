@@ -322,5 +322,6 @@ if __name__ == "__main__":
     gr.ChatInterface(
         me.chat, 
         type="messages",
-        chatbot=gr.Chatbot(placeholder=initial_greeting),
+        chatbot=gr.Chatbot(placeholder=initial_greeting, scale=1, type="messages"),
+        theme=gr.themes.Monochrome()
     ).launch()
