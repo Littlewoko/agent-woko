@@ -1,5 +1,13 @@
 # agent-woko
 Research and labs around agentic workflows and development
+
+## Library of Woko
+
+An agentic chat model for learning about me, my collection of books, and my background!
+
+Integrated here: [llyfrgell-woko](https://llyfrgell-woko.vercel.app/) 
+
+
 ### `uv`
 
 Follow the instructions here to install uv
